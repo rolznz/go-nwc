@@ -9,8 +9,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, World!")
-
 	nwcUri := os.Getenv("NWC_URI")
 	if nwcUri == "" {
 		fmt.Printf("Please set a NWC_URI and try again")
