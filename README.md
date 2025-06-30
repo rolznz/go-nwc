@@ -2,7 +2,7 @@
 
 [NWC](https://nwc.dev) Client Go Library
 
-[![Sponsor](https://lnfly.albylabs.com/api/apps/386/proxy/api/badge/7f8a5810-ad2f-42d0-add2-31cc5d873202)](/?project=7f8a5810-ad2f-42d0-add2-31cc5d873202)
+[![Sponsor](https://lnfly.albylabs.com/api/apps/386/proxy/api/badge/7f8a5810-ad2f-42d0-add2-31cc5d873202)](https://sponsor.lnfly.albylabs.com/?project=7f8a5810-ad2f-42d0-add2-31cc5d873202)
 
 ## Features
 
